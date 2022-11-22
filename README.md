@@ -1,4 +1,4 @@
-My first project with Odin- a recipe website.
+My first project with Odin- a recipe website!
 
 In this project I will demonstrate different HTML and CSS elements that I
 have learned so far with TOP by creating a website with different pages
