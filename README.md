@@ -6,3 +6,6 @@ for several recipes. I'm thinking Thanksgiving recipes since Thanksgiving
 is in two days.
 
 Hello Odin!
+
+Adding some lines to practice git add, git status, git commit, git status
+again, and then git push
